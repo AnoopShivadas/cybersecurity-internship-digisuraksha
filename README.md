@@ -1,6 +1,6 @@
-# Cybersecurity Internship - 3 Months
+# Cybersecurity Internship - 2 Months
 
-This repository contains a structured log of a 3-month cybersecurity internship program. It includes session materials, assignments, progress reports, and project submissions, divided by month.
+This repository contains a structured log of a 3-month cybersecurity internship program under the mentorship of Digisuraksha Parhari Foundation. It includes session materials, assignments, progress reports, and project submissions, divided by month.
 
 ## Structure
 - **Month_1**: Orientation, initial training, and first assignments
@@ -8,4 +8,4 @@ This repository contains a structured log of a 3-month cybersecurity internship 
 - **Month_3**: Capstone project and final feedback
 - **Resources**: Toolkits and social media content
 
-> Maintained by: Adwitya Deep Vermaq
+> Maintained by: Adwitya Deep Verma
