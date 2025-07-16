@@ -4,8 +4,8 @@ This repository contains a structured log of a 3-month cybersecurity internship 
 
 ## Structure
 - **Month_1**: Orientation, initial training, and first assignments
-- **Month_2**: Advanced topics and deeper project work
-- **Month_3**: Capstone project and final feedback
+- **Month_2**: Month 2 details
+- **Month_3**: Month 3 details
 - **Resources**: Toolkits and social media content
 
 > Maintained by: Adwitya Deep Verma
