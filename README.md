@@ -8,4 +8,4 @@ This repository contains a structured log of a 3-month cybersecurity internship 
 - **Month_3**: Month 3 details
 - **Resources**: Toolkits and social media content
 
-> Maintained by: Adwitya Deep Verma
+> Maintained by: Anoop Shivadas
